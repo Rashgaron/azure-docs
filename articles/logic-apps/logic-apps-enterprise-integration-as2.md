@@ -189,7 +189,7 @@ For information about the AS2 connector limits for workflows running in [multi-t
 
    ![Screenshot showing the Azure portal, workflow designer, and "AS2 Decode" operation selected.](media/logic-apps-enterprise-integration-as2/select-as2-decode.png)
 
-1. In the AS2 operation shape, select the values for the **Message to encode** and the **Message headers** properties from the previous trigger or action outputs.
+1. In the AS2 operation shape, select the values for the **Message to decode** and the **Message headers** properties from the previous trigger or action outputs.
 
    In this example, you can select the outputs from the Request trigger.
 
